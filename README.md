@@ -6,4 +6,6 @@ contact me form to incorporate formspree.io
 
 Will update with certification section as soon as I get it done :)
 
+http://avtarsingh.me
+
 //Happy Coding
